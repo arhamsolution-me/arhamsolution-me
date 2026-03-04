@@ -287,4 +287,134 @@ Node.js        ███████████░░░░░░░░░   55
 
 <!-- ══════════════════ WAKA TIME STATS ══════════════════ -->
 
-## ⏱
+## ⏱️ Coding Time Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+💻 Total Time Coded: Obsessively Long
+🔥 Most Active: 12AM - 3AM (Chai Mode)
+```
+<!--END_SECTION:waka-->
+
+<!-- ══════════════════ ANIMATED LOADER ══════════════════ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" alt="Rocket"/>
+
+</div>
+
+---
+
+<!-- ══════════════════ CURRENT VIBE ══════════════════ -->
+
+## 🎧 Current Coding Vibe
+
+<div align="center">
+
+```
+  ╔══════════════════════════════════════════════════╗
+  ║   🎵  Lo-Fi Hip Hop — Deep Focus Mode            ║
+  ║   ☕  Chai Cups Today: 3 and counting            ║
+  ║   💻  Lines Written: ∞                          ║
+  ║   🐛  Bugs Fixed: Many (bugs added: few)        ║
+  ║   🚀  New Ideas in Queue: Always More           ║
+  ║   🌙  Best Code Time: 2AM — Always              ║
+  ║   🇵🇰  Coding from the Land of the Pure          ║
+  ╚══════════════════════════════════════════════════╝
+```
+
+<!-- ══════════════════ ANIMATED EMOJIS ══════════════════ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="40" />
+
+</div>
+
+---
+
+<!-- ══════════════════ FUN FACTS ══════════════════ -->
+
+## ⚡ Fun Facts About Me
+
+<div align="center">
+
+| 🎯 Fact | 💬 Details |
+|--------|-----------|
+| 🌙 Coding Hours | Peak at 2AM with Lo-Fi + Chai |
+| ☕ Daily Chai | Minimum 3 cups to function |
+| 🐛 Bug Ratio | Fixed > Created (most days) |
+| 🚀 Current Goal | Land first internship & build SaaS |
+| 💡 Superpower | Turning caffeine into working code |
+| 🎮 Secret | I debug in my dreams |
+| 🌍 Dream | Build something used by millions |
+| 📦 Side Project | Always 3+ in progress simultaneously |
+
+</div>
+
+---
+
+<!-- ══════════════════ ANIMATED RANDOM GIF ══════════════════ -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding Gif"/>
+
+<br/><br/>
+
+<!-- ══════════════════ CONTRIBUTION COUNTER ══════════════════ -->
+<img src="https://github-contributor-stats.vercel.app/api?username=arhamsolution-me&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+
+</div>
+
+---
+
+<!-- ══════════════════ CONNECT ══════════════════ -->
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00d4ff?style=for-the-badge&labelColor=0d1117)](https://arham-solution.42web.io/)
+[![Gmail](https://img.shields.io/badge/📧_Gmail-arham.solution.me@gmail.com-D14836?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=D14836)](mailto:arham.solution.me@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-arhamsolution--me-white?style=for-the-badge&labelColor=0d1117&logo=github)](https://github.com/arhamsolution-me)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&labelColor=0d1117&logo=linkedin)](https://linkedin.com/in/arhamsolution-me)
+
+<br/>
+
+### 💼 Open For:
+![Collaboration](https://img.shields.io/badge/🤝-Open_to_Collaborate-success?style=flat-square&labelColor=0d1117)
+![Freelance](https://img.shields.io/badge/💼-Freelance_Projects-blue?style=flat-square&labelColor=0d1117)
+![Learning](https://img.shields.io/badge/📚-Always_Learning-orange?style=flat-square&labelColor=0d1117)
+![OpenSource](https://img.shields.io/badge/🌍-Open_Source_Contributions-purple?style=flat-square&labelColor=0d1117)
+
+<br/>
+
+<!-- ══════════════════ ANIMATED VISITING BANNER ══════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=40&lines=⭐+Drop+a+star+if+you+liked+my+profile!;🤝+Let's+build+something+amazing+together!;💬+Feel+free+to+reach+out+anytime!;🚀+Together+we+code+the+future!" alt="Footer Typing" />
+
+<br/>
+
+<!-- ══════════════════ ANIMATED VISITOR MAP ══════════════════ -->
+<img src="https://profile-counter.glitch.me/arhamsolution-me/count.svg" alt="Visitor Count" />
+
+<br/><br/>
+
+<!-- ══════════════════ ANIMATED DIVIDER ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:00d4ff,100:0d1117&height=60&section=header&reversal=true" width="100%"/>
+
+---
+
+<!-- ══════════════════ FOOTER WAVE ══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a1a,70:0d1b2a,100:00d4ff&height=180&section=footer&text=Thanks+for+Visiting!+⭐&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Drop+a+⭐+if+you+liked+my+profile+—+It+means+a+lot!+%7C+Made+with+❤️+from+Pakistan+🇵🇰&descColor=8892b0&descSize=15" width="100%"/>
+
+</div>
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--        Made with ❤️ by Arham Solution — Pakistan 🇵🇰    -->
+<!--        github.com/arhamsolution-me                       -->
+<!-- ████████████████████████████████████████████████████████ -->
