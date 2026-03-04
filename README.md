@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- ══════════════════ ANIMATED HEADER ══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a0a1a,60:0d1b2a,100:00d4ff&height=280&section=header&text=ARHAM%20SOLUTION&fontSize=75&fontColor=00d4ff&fontAlignY=40&desc=⚡%20Full-Stack%20Dev%20%7C%20AI%2FML%20Explorer%20%7C%20App%20Developer%20⚡&descColor=ffffff&descSize=18&animation=fadeIn&stroke=00d4ff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a0a1a,60:0d1b2a,100:00d4ff&height=250&section=header&text=ARHAM%20SOLUTION&fontSize=70&fontColor=00d4ff&fontAlignY=40&desc=⚡%20Full-Stack%20Dev%20%7C%20AI%2FML%20Explorer%20%7C%20App%20Developer%20⚡&descColor=ffffff&descSize=17&animation=fadeIn&stroke=00d4ff&strokeWidth=2" />
 
 <!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=🚀+Building+The+Future+With+Code;💻+Full-Stack+Web+Developer;📱+Mobile+App+Developer;🤖+AI+%2F+ML+Engineer+in+Progress;⚡+C%2B%2B+%7C+Python+%7C+JavaScript+%7C+CSS;🌐+Portfolio%3A+arham-solution.42web.io;🔥+Always+Learning+%7C+Always+Shipping;🌙+Best+Code+Time%3A+2AM+Always" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🚀+Building+The+Future+With+Code;💻+Full-Stack+Web+Developer;📱+Mobile+App+Developer;🤖+AI+%2F+ML+Engineer+in+Progress;⚡+C%2B%2B+%7C+Python+%7C+JavaScript+%7C+CSS;🌐+Portfolio%3A+arham-solution.42web.io;🔥+Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -22,20 +22,10 @@
 
 <br/>
 
-<!-- ══════════════════ ANIMATED WAVE DIVIDER ══════════════════ -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/marquee.svg" width="100%">
-
-<br/>
-
 <!-- ══════════════════ BADGE ROW ══════════════════ -->
 ![Profile Views](https://komarev.com/ghpvc/?username=arhamsolution-me&color=00d4ff&style=for-the-badge&label=👁️+PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/arhamsolution-me?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=🤝+FOLLOWERS)](https://github.com/arhamsolution-me?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/arhamsolution-me?style=for-the-badge&color=ffd700&labelColor=0d1117&label=⭐+STARS)](https://github.com/arhamsolution-me)
-
-<br/>
-
-<!-- ══════════════════ ANIMATED CAPSULE BANNER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 </div>
 
@@ -47,7 +37,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Who Am I?
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
 #!/usr/bin/env python3
@@ -98,14 +88,6 @@ print(me.life_motto())
 ```
 
 <br clear="right"/>
-
-<!-- ══════════════════ ANIMATED METRICS ══════════════════ -->
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamsolution-me&theme=github_dark" width="100%" alt="Profile Summary"/>
-
-</div>
 
 ---
 
@@ -161,7 +143,7 @@ print(me.life_motto())
 
 ---
 
-<!-- ══════════════════ ANIMATED SKILL METERS ══════════════════ -->
+<!-- ══════════════════ SKILL METERS ══════════════════ -->
 
 ## 📊 Skill Level Progress
 
@@ -175,13 +157,6 @@ Flutter        ██████████░░░░░░░░░░   50
 AI / ML        ████████░░░░░░░░░░░░   40% 🤖
 Node.js        ███████████░░░░░░░░░   55% 🌿
 ```
-
-<div align="center">
-
-<!-- ══════════════════ ANIMATED SKILL ICONS ══════════════════ -->
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,flutter,dart,tensorflow,git,github,vscode,linux,figma,firebase,php&theme=dark&perline=10" alt="Skill Icons" />
-
-</div>
 
 ---
 
@@ -200,13 +175,6 @@ Node.js        ███████████░░░░░░░░░   55
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamsolution-me&layout=donut&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages Donut" />
 
 <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamsolution-me&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top Languages Compact" />
-
-<br/><br/>
-
-<!-- ══════════════════ PROFILE SUMMARY CARDS ══════════════════ -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arhamsolution-me&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arhamsolution-me&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arhamsolution-me&theme=github_dark" width="32%" />
 
 </div>
 
@@ -236,18 +204,6 @@ Node.js        ███████████░░░░░░░░░   55
 
 ---
 
-<!-- ══════════════════ ANIMATED 3D CONTRIBUTION ══════════════════ -->
-
-## 🌐 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arhamsolution-me/arhamsolution-me/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
-
-</div>
-
----
-
 <!-- ══════════════════ FEATURED PROJECTS ══════════════════ -->
 
 ## 🚀 Featured Projects
@@ -256,18 +212,6 @@ Node.js        ███████████░░░░░░░░░   55
 
 [![cpp-codes](https://github-readme-stats.vercel.app/api/pin/?username=arhamsolution-me&repo=cpp-codes&theme=react&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&hide_border=true)](https://github.com/arhamsolution-me/cpp-codes)
 [![cgpa-generate](https://github-readme-stats.vercel.app/api/pin/?username=arhamsolution-me&repo=cgpa-generate&theme=react&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&hide_border=true)](https://github.com/arhamsolution-me/cgpa-generate)
-
-</div>
-
----
-
-<!-- ══════════════════ ANIMATED METRICS EXTENDED ══════════════════ -->
-
-## 📡 Live GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/arhamsolution-me?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi&config.style=0&config.twemoji=true&config.gemoji=true&config.octicon=true" width="100%" alt="Live Metrics"/>
 
 </div>
 
@@ -285,26 +229,6 @@ Node.js        ███████████░░░░░░░░░   55
 
 ---
 
-<!-- ══════════════════ WAKA TIME STATS ══════════════════ -->
-
-## ⏱️ Coding Time Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-💻 Total Time Coded: Obsessively Long
-🔥 Most Active: 12AM - 3AM (Chai Mode)
-```
-<!--END_SECTION:waka-->
-
-<!-- ══════════════════ ANIMATED LOADER ══════════════════ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" alt="Rocket"/>
-
-</div>
-
----
-
 <!-- ══════════════════ CURRENT VIBE ══════════════════ -->
 
 ## 🎧 Current Coding Vibe
@@ -312,59 +236,15 @@ Node.js        ███████████░░░░░░░░░   55
 <div align="center">
 
 ```
-  ╔══════════════════════════════════════════════════╗
-  ║   🎵  Lo-Fi Hip Hop — Deep Focus Mode            ║
-  ║   ☕  Chai Cups Today: 3 and counting            ║
-  ║   💻  Lines Written: ∞                          ║
-  ║   🐛  Bugs Fixed: Many (bugs added: few)        ║
-  ║   🚀  New Ideas in Queue: Always More           ║
-  ║   🌙  Best Code Time: 2AM — Always              ║
-  ║   🇵🇰  Coding from the Land of the Pure          ║
-  ╚══════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════╗
+  ║   🎵  Lo-Fi Hip Hop — Deep Focus Mode    ║
+  ║   ☕  Chai Cups Today: 3 and counting    ║
+  ║   💻  Lines Written: ∞                  ║
+  ║   🐛  Bugs Fixed: Many (bugs added: few)║
+  ║   🚀  New Ideas in Queue: Always More   ║
+  ║   🌙  Best Code Time: 2AM — Always      ║
+  ╚══════════════════════════════════════════╝
 ```
-
-<!-- ══════════════════ ANIMATED EMOJIS ══════════════════ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="40" />
-
-</div>
-
----
-
-<!-- ══════════════════ FUN FACTS ══════════════════ -->
-
-## ⚡ Fun Facts About Me
-
-<div align="center">
-
-| 🎯 Fact | 💬 Details |
-|--------|-----------|
-| 🌙 Coding Hours | Peak at 2AM with Lo-Fi + Chai |
-| ☕ Daily Chai | Minimum 3 cups to function |
-| 🐛 Bug Ratio | Fixed > Created (most days) |
-| 🚀 Current Goal | Land first internship & build SaaS |
-| 💡 Superpower | Turning caffeine into working code |
-| 🎮 Secret | I debug in my dreams |
-| 🌍 Dream | Build something used by millions |
-| 📦 Side Project | Always 3+ in progress simultaneously |
-
-</div>
-
----
-
-<!-- ══════════════════ ANIMATED RANDOM GIF ══════════════════ -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding Gif"/>
-
-<br/><br/>
-
-<!-- ══════════════════ CONTRIBUTION COUNTER ══════════════════ -->
-<img src="https://github-contributor-stats.vercel.app/api?username=arhamsolution-me&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 
 </div>
 
@@ -393,28 +273,16 @@ Node.js        ███████████░░░░░░░░░   55
 
 <br/>
 
-<!-- ══════════════════ ANIMATED VISITING BANNER ══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=40&lines=⭐+Drop+a+star+if+you+liked+my+profile!;🤝+Let's+build+something+amazing+together!;💬+Feel+free+to+reach+out+anytime!;🚀+Together+we+code+the+future!" alt="Footer Typing" />
-
-<br/>
-
-<!-- ══════════════════ ANIMATED VISITOR MAP ══════════════════ -->
-<img src="https://profile-counter.glitch.me/arhamsolution-me/count.svg" alt="Visitor Count" />
-
-<br/><br/>
-
-<!-- ══════════════════ ANIMATED DIVIDER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:00d4ff,100:0d1117&height=60&section=header&reversal=true" width="100%"/>
-
 ---
 
 <!-- ══════════════════ FOOTER WAVE ══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a1a,70:0d1b2a,100:00d4ff&height=180&section=footer&text=Thanks+for+Visiting!+⭐&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Drop+a+⭐+if+you+liked+my+profile+—+It+means+a+lot!+%7C+Made+with+❤️+from+Pakistan+🇵🇰&descColor=8892b0&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a1a,70:0d1b2a,100:00d4ff&height=160&section=footer&text=Thanks+for+Visiting!+⭐&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Drop+a+⭐+if+you+liked+my+profile+—+It+means+a+lot!&descColor=8892b0&descSize=14" width="100%"/>
 
 </div>
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!--        Made with ❤️ by Arham Solution — Pakistan 🇵🇰    -->
-<!--        github.com/arhamsolution-me                       -->
 <!-- ████████████████████████████████████████████████████████ -->
+
+
