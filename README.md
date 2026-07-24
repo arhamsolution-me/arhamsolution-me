@@ -1,100 +1,107 @@
 <div align="center">
 
-# Muhammad Arham Abdul Qayyum
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Arham%20Abdul%20Qayyum&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-### Full Stack Developer | AI/ML Engineer | Software Engineer
+</div>
 
-Building intelligent software solutions with Artificial Intelligence, Machine Learning, and modern web technologies.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Building+Intelligent+Systems;Software+Engineering+Enthusiast"/>
 
 <br>
 
-<a href="https://github.com/arhamsolution-me">
-<img src="https://img.shields.io/badge/GitHub-arhamsolution--me-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="mailto:arham.solution.me@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
+<img src="https://komarev.com/ghpvc/?username=arhamsolution-me&style=for-the-badge&color=00ff88"/>
 
 </div>
 
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a Computer Science student and Full Stack AI Engineer passionate about building practical, scalable, and intelligent software systems.
+I am a Computer Science student and Full Stack AI Engineer passionate about designing and building intelligent software systems.
 
-My work focuses on combining software engineering with artificial intelligence to solve real-world problems.
+My work focuses on combining:
 
-Areas I work in:
-
-- Artificial Intelligence & Machine Learning
-- Full Stack Web Development
-- Computer Vision Systems
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- Computer Vision
+- Automation Systems
 - AI Agents & LLM Applications
-- Automation Solutions
-- Database-driven Applications
+
+
+I enjoy transforming complex problems into scalable, practical, and production-ready solutions.
 
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
 
-### Programming Languages
+## Programming Languages
 
-- Python
-- C++
-- JavaScript
-- Dart
+<div>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### Frontend Development
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-- React.js
-- Next.js
-- Tailwind CSS
-- Flutter
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
-### Backend Development
-
-- Node.js
-- Express.js
-- Flask
-- REST APIs
+</div>
 
 
-### Databases
+## Frontend Development
 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Firebase
-- Vector Databases
+<div>
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
-### AI / Machine Learning
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
 
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-- Pandas
-- NumPy
-- OpenCV
-- YOLO
-- NLP
-- Large Language Models (LLMs)
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+
+</div>
 
 
-### Tools & Platforms
+## Backend & Database
 
-- Git & GitHub
-- Linux
-- Docker
-- VS Code
-- Postman
+<div>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+</div>
+
+
+## Artificial Intelligence
+
+<div>
+
+<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-AI-purple?style=for-the-badge"/>
+
+</div>
 
 
 ---
@@ -104,9 +111,9 @@ Areas I work in:
 
 ## 🤖 Cortex AI
 
-An intelligent AI assistant designed with memory, automation, and natural language interaction.
+An intelligent AI assistant with memory, automation and natural language interaction.
 
-**Technologies:**
+**Technology**
 
 Python • LLM APIs • Vector Database • Automation
 
@@ -115,22 +122,20 @@ Python • LLM APIs • Vector Database • Automation
 
 ## 🧠 LexiBase AI
 
-An AI-powered database assistant that enables users to interact with databases using natural language.
+AI-powered database assistant that allows users to communicate with databases using natural language.
 
-**Features:**
+**Features**
 
-- Natural Language to SQL
-- AI-powered database interaction
-- Intelligent query assistance
+- Natural Language → SQL
+- AI Query Assistance
+- Database Intelligence
 
 
 ---
 
-## 👁️ Computer Vision Systems
+## 👁 Computer Vision Systems
 
-Developing AI vision solutions using modern deep learning techniques.
-
-**Technologies:**
+Building AI vision solutions using:
 
 - YOLO
 - OpenCV
@@ -142,7 +147,7 @@ Developing AI vision solutions using modern deep learning techniques.
 
 ## ⚡ AI Automation Systems
 
-Building intelligent automation workflows using:
+Developing intelligent workflows using:
 
 - AI Agents
 - LLM Integration
@@ -155,50 +160,58 @@ Building intelligent automation workflows using:
 # 💼 Experience
 
 
-### Full Stack AI Engineer
+## Full Stack AI Engineer
 
 Working on:
 
 - AI-powered applications
 - Production software systems
-- Computer vision solutions
+- Computer Vision solutions
 - Automation platforms
 
 
-### Founder — Devnexes Digital Solutions
+## Founder — Devnexes Digital Solutions
 
-Building digital solutions focused on:
+Building digital solutions using:
 
-- Web Applications
+- Web Technologies
 - AI Integration
 - Custom Software Development
 
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arhamsolution-me&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=arhamsolution-me&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamsolution-me&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
 <br><br>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamsolution-me&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhamsolution-me&theme=tokyo-night&hide_border=true"/>
+
 
 </div>
 
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Snake
+
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arhamsolution-me/arhamsolution-me/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/arhamsolution-me/arhamsolution-me/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -208,7 +221,7 @@ Building digital solutions focused on:
 # 📚 Currently Learning
 
 - Advanced AI Agent Architectures
-- Production Machine Learning Systems
+- Production ML Systems
 - Cloud Deployment
 - Software Architecture
 - Distributed Systems
@@ -218,16 +231,37 @@ Building digital solutions focused on:
 
 # 🤝 Let's Connect
 
-I am interested in:
 
-- AI Projects
-- Software Development
-- Open Source Collaboration
-- Innovative Technology Solutions
+<div align="center">
+
+
+<a href="mailto:arham.solution.me@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+
+<a href="https://github.com/arhamsolution-me">
+
+<img src="https://img.shields.io/badge/GitHub-arhamsolution--me-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+</div>
+
+
+<br>
 
 
 <div align="center">
 
-**Building solutions, not just writing code.**
+
+### Building solutions, not just writing code 🚀
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+
 
 </div>
