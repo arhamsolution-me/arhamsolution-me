@@ -2,59 +2,66 @@
 
 # Muhammad Arham Abdul Qayyum
 
-### Full-Stack Developer | AI/ML Engineer | Systems Builder
+### Full Stack Developer | AI/ML Engineer | Software Engineer
 
-Building scalable software solutions, AI-powered applications, and intelligent automation systems.
+Building intelligent software systems with AI, automation, and modern web technologies.
 
-<br/>
+<br>
 
 <a href="https://arham-solution.42web.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=firefox"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="mailto:arham.solution.me@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/arhamsolution-me">
-<img src="https://img.shields.io/badge/GitHub-arhamsolution--me-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-arhamsolution--me-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
+
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-I am a Computer Science undergraduate and Full-Stack AI Engineer passionate about building real-world software systems.
+I am a Computer Science undergraduate and Full Stack AI Engineer passionate about designing and building real-world software solutions.
 
-My work focuses on the intersection of:
+My focus areas include:
 
-- Full-Stack Web Development
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence Applications
+- Machine Learning Systems
 - Computer Vision
-- Automation Systems
-- AI Agents & LLM Applications
+- Full Stack Web Development
+- AI Agents & Automation
+- Scalable Software Architecture
 
-I enjoy transforming complex problems into reliable, scalable, and production-ready solutions.
 
-Currently working on AI-driven applications, intelligent automation workflows, and modern software architectures.
+I enjoy converting complex problems into practical, reliable, and production-ready solutions.
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-## Programming Languages
+
+## Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+
 </p>
 
 
-## Frontend Development
+## Frontend
 
 - React.js
 - Next.js
@@ -63,7 +70,7 @@ Currently working on AI-driven applications, intelligent automation workflows, a
 - Flutter
 
 
-## Backend Development
+## Backend
 
 - Node.js
 - Express.js
@@ -78,23 +85,24 @@ Currently working on AI-driven applications, intelligent automation workflows, a
 - MySQL
 - MongoDB
 - Firebase
-- Vector Databases (FAISS, Qdrant)
+- Vector Databases
 
 
-## AI / Machine Learning
+## AI / ML
 
-- Python AI Ecosystem
-- TensorFlow
 - PyTorch
+- TensorFlow
 - Scikit-Learn
+- Pandas
+- NumPy
 - OpenCV
-- Computer Vision
+- YOLO
 - NLP
 - LLM Applications
 - AI Agents
 
 
-## Development Tools
+## Tools
 
 - Git & GitHub
 - Linux
@@ -103,84 +111,110 @@ Currently working on AI-driven applications, intelligent automation workflows, a
 - Postman
 - Figma
 
+
 ---
 
 # 🚀 Featured Projects
 
 
-## 🤖 Cortex AI Assistant
+## 🤖 Cortex AI
 
-An intelligent desktop AI assistant with memory, automation, and natural language interaction.
+AI-powered desktop assistant with memory, automation, and intelligent interactions.
 
-**Tech Stack**
+**Technologies**
 
-Python • LLMs • Vector Database • APIs • Automation
+Python • LLMs • Vector Database • Automation
 
 
 ---
 
 ## 🧠 LexiBase AI
 
-AI-powered database assistant capable of understanding natural language queries and generating database insights.
+AI database assistant that allows users to interact with databases using natural language.
 
 **Features**
 
-- Natural Language → SQL
-- AI-powered database interaction
-- Multi-language support
+- Natural Language to SQL
+- AI-powered database analysis
+- Intelligent query assistance
 
 
 ---
 
 ## 👁️ Computer Vision Systems
 
-Building vision-based applications using:
+Development of AI vision solutions using:
 
 - YOLO
-- InsightFace
 - OpenCV
+- InsightFace
 - Deep Learning Models
 
-Applications include:
 
-- Face recognition
-- Monitoring systems
-- Object detection
+Applications:
 
-
----
-
-## 🎙️ Multi-Agent AI Systems
-
-Developing AI agent architectures with:
-
-- Multiple specialized agents
-- LLM orchestration
-- Voice interaction
-- Automated workflows
+- Object Detection
+- Face Recognition
+- Monitoring Systems
 
 
 ---
 
-# 📊 GitHub Statistics
+## 🧩 AI Automation Systems
+
+Building intelligent workflows using:
+
+- LLM APIs
+- Multi-Agent Architecture
+- Automated Decision Systems
+
+
+---
+
+# 📊 GitHub Analytics
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arhamsolution-me&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=arhamsolution-me&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamsolution-me&theme=github-dark&hide_border=true"/>
+
+<br>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamsolution-me&theme=github-dark&hide_border=true" />
+
+
+<br>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhamsolution-me&theme=github-compact&hide_border=true" />
+
 
 </div>
 
 
 ---
 
-# 📚 Currently Learning
+# 🐍 Contribution Snake
 
-- Advanced AI Agent Architectures
-- Production Machine Learning Systems
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/arhamsolution-me/arhamsolution-me/output/github-contribution-grid-snake.svg">
+
+
+</div>
+
+
+---
+
+# 📚 Currently Exploring
+
+- Advanced AI Agent Systems
+- Production ML Pipelines
 - Cloud Deployment
 - Distributed Systems
 - Software Architecture
@@ -190,16 +224,17 @@ Developing AI agent architectures with:
 
 # 🤝 Let's Connect
 
-I am open to:
+
+Open for:
 
 - Freelance Projects
-- AI/Software Collaborations
-- Open Source Contributions
-- Innovative Product Development
+- AI Development
+- Software Collaboration
+- Open Source
 
 
 <div align="center">
 
-### "Building solutions, not just writing code."
+### Building solutions, not just writing code.
 
 </div>
