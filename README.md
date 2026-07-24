@@ -1,558 +1,233 @@
-<!DOCTYPE html>
-<html lang="en">
+<div align="center">
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+# Muhammad Arham Abdul Qayyum
 
-<title>Muhammad Arham | AI Engineer Portfolio</title>
+### Full Stack Developer | AI/ML Engineer | Software Engineer
 
-<style>
+Building intelligent software solutions with Artificial Intelligence, Machine Learning, and modern web technologies.
 
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family: 'Segoe UI', sans-serif;
-}
+<br>
 
-html{
-    scroll-behavior:smooth;
-}
-
-body{
-    background:#050505;
-    color:white;
-}
-
-
-/* Navbar */
-
-nav{
-    position:fixed;
-    top:0;
-    width:100%;
-    padding:20px 8%;
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    background:rgba(5,5,5,.9);
-    backdrop-filter:blur(10px);
-    z-index:100;
-}
-
-
-.logo{
-    font-size:30px;
-    font-weight:bold;
-}
-
-.logo span{
-    color:#00ff88;
-}
-
-
-nav a{
-    color:white;
-    text-decoration:none;
-    margin-left:25px;
-}
-
-
-
-/* Hero */
-
-.hero{
-
-height:100vh;
-display:flex;
-justify-content:center;
-align-items:center;
-text-align:center;
-padding:20px;
-
-}
-
-
-.hero h1{
-
-font-size:55px;
-
-}
-
-
-.hero h2{
-
-margin:20px;
-color:#00ff88;
-
-}
-
-
-.hero p{
-
-max-width:700px;
-color:#aaa;
-font-size:18px;
-line-height:1.7;
-
-}
-
-
-.btn{
-
-display:inline-block;
-margin:30px 10px;
-padding:14px 35px;
-border-radius:30px;
-border:1px solid #00ff88;
-color:white;
-text-decoration:none;
-transition:.3s;
-
-}
-
-
-.btn:hover{
-
-background:#00ff88;
-color:black;
-
-}
-
-
-
-
-section{
-
-padding:100px 10%;
-
-}
-
-
-.title{
-
-font-size:40px;
-margin-bottom:30px;
-
-}
-
-
-
-.about p{
-
-color:#aaa;
-font-size:18px;
-line-height:1.8;
-
-}
-
-
-
-
-/* Skills */
-
-.skills{
-
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
-gap:20px;
-
-}
-
-
-.skill{
-
-background:#111;
-padding:20px;
-text-align:center;
-border-radius:15px;
-border:1px solid #222;
-
-}
-
-
-
-
-/* Projects */
-
-
-.projects{
-
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
-gap:25px;
-
-}
-
-
-
-.card{
-
-background:#111;
-padding:30px;
-border-radius:20px;
-border:1px solid #222;
-transition:.3s;
-
-}
-
-
-.card:hover{
-
-transform:translateY(-10px);
-border-color:#00ff88;
-
-}
-
-
-
-.card h3{
-
-color:#00ff88;
-margin-bottom:15px;
-
-}
-
-
-.card p{
-
-color:#aaa;
-line-height:1.7;
-
-}
-
-
-
-/* Experience */
-
-
-.box{
-
-background:#111;
-padding:30px;
-border-radius:20px;
-
-}
-
-
-.box h3{
-
-color:#00ff88;
-
-}
-
-
-
-/* Contact */
-
-
-.contact{
-
-text-align:center;
-
-}
-
-
-.contact a{
-
-color:#00ff88;
-
-}
-
-
-
-footer{
-
-text-align:center;
-padding:30px;
-background:#111;
-color:#aaa;
-
-}
-
-
-
-</style>
-
-</head>
-
-
-<body>
-
-
-<nav>
-
-<div class="logo">
-Arham<span>.</span>
-</div>
-
-
-<div>
-
-<a href="#about">About</a>
-<a href="#skills">Skills</a>
-<a href="#projects">Projects</a>
-<a href="#contact">Contact</a>
-
-</div>
-
-
-</nav>
-
-
-
-
-
-<section class="hero">
-
-
-<div>
-
-
-<h1>
-Muhammad Arham Abdul Qayyum
-</h1>
-
-
-<h2>
-Full Stack Developer | AI/ML Engineer
-</h2>
-
-
-<p>
-
-Building intelligent software systems using Artificial Intelligence,
-Machine Learning, Computer Vision and modern web technologies.
-
-</p>
-
-
-<a class="btn" href="https://github.com/arhamsolution-me">
-GitHub
-</a>
-
-
-<a class="btn" href="mailto:arham.solution.me@gmail.com">
-Contact
-</a>
-
-
-</div>
-
-
-</section>
-
-
-
-
-
-
-<section id="about" class="about">
-
-
-<h2 class="title">
-About Me
-</h2>
-
-
-<p>
-
-I am a Computer Science student and AI Engineer passionate about
-building real-world software solutions.
-
-My focus areas include AI applications, full-stack development,
-automation systems, computer vision and intelligent agents.
-
-</p>
-
-
-</section>
-
-
-
-
-
-
-
-<section id="skills">
-
-
-<h2 class="title">
-Technical Skills
-</h2>
-
-
-<div class="skills">
-
-<div class="skill">Python</div>
-<div class="skill">C++</div>
-<div class="skill">JavaScript</div>
-<div class="skill">React</div>
-<div class="skill">Node.js</div>
-<div class="skill">Flask</div>
-<div class="skill">PostgreSQL</div>
-<div class="skill">MongoDB</div>
-<div class="skill">PyTorch</div>
-<div class="skill">TensorFlow</div>
-<div class="skill">OpenCV</div>
-<div class="skill">YOLO</div>
-
-</div>
-
-
-</section>
-
-
-
-
-
-
-<section id="projects">
-
-
-<h2 class="title">
-Featured Projects
-</h2>
-
-
-<div class="projects">
-
-
-<div class="card">
-
-<h3>
-Cortex AI
-</h3>
-
-<p>
-AI assistant with memory, automation and intelligent workflows.
-</p>
-
-</div>
-
-
-
-<div class="card">
-
-<h3>
-LexiBase AI
-</h3>
-
-<p>
-AI database assistant that converts natural language into database intelligence.
-</p>
-
-</div>
-
-
-
-
-<div class="card">
-
-<h3>
-Computer Vision Systems
-</h3>
-
-<p>
-Vision solutions using YOLO, OpenCV and deep learning models.
-</p>
-
-</div>
-
-
-
-</div>
-
-
-</section>
-
-
-
-
-
-
-
-<section>
-
-
-<h2 class="title">
-Experience
-</h2>
-
-
-<div class="box">
-
-<h3>
-Full Stack AI Engineer
-</h3>
-
-
-<p>
-Developing AI-powered applications, automation systems,
-and scalable software products.
-</p>
-
-
-</div>
-
-
-</section>
-
-
-
-
-
-
-
-<section id="contact" class="contact">
-
-
-<h2 class="title">
-Let's Connect
-</h2>
-
-
-<p>
-
-Email:
-<a href="mailto:arham.solution.me@gmail.com">
-arham.solution.me@gmail.com
-</a>
-
-</p>
-
-
-<p>
-
-GitHub:
 <a href="https://github.com/arhamsolution-me">
-arhamsolution-me
+<img src="https://img.shields.io/badge/GitHub-arhamsolution--me-black?style=for-the-badge&logo=github">
 </a>
 
-</p>
+<a href="mailto:arham.solution.me@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
 
 
-</section>
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science student and Full Stack AI Engineer passionate about building practical, scalable, and intelligent software systems.
+
+My work focuses on combining software engineering with artificial intelligence to solve real-world problems.
+
+Areas I work in:
+
+- Artificial Intelligence & Machine Learning
+- Full Stack Web Development
+- Computer Vision Systems
+- AI Agents & LLM Applications
+- Automation Solutions
+- Database-driven Applications
 
 
+---
+
+## 🛠️ Technical Skills
 
 
-<footer>
+### Programming Languages
 
-© 2026 Muhammad Arham Abdul Qayyum
-
-</footer>
-
-
-
-<script>
-
-console.log("Portfolio Ready");
-
-</script>
+- Python
+- C++
+- JavaScript
+- Dart
 
 
-</body>
+### Frontend Development
 
-</html>
+- React.js
+- Next.js
+- Tailwind CSS
+- Flutter
+
+
+### Backend Development
+
+- Node.js
+- Express.js
+- Flask
+- REST APIs
+
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Firebase
+- Vector Databases
+
+
+### AI / Machine Learning
+
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- Pandas
+- NumPy
+- OpenCV
+- YOLO
+- NLP
+- Large Language Models (LLMs)
+
+
+### Tools & Platforms
+
+- Git & GitHub
+- Linux
+- Docker
+- VS Code
+- Postman
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🤖 Cortex AI
+
+An intelligent AI assistant designed with memory, automation, and natural language interaction.
+
+**Technologies:**
+
+Python • LLM APIs • Vector Database • Automation
+
+
+---
+
+## 🧠 LexiBase AI
+
+An AI-powered database assistant that enables users to interact with databases using natural language.
+
+**Features:**
+
+- Natural Language to SQL
+- AI-powered database interaction
+- Intelligent query assistance
+
+
+---
+
+## 👁️ Computer Vision Systems
+
+Developing AI vision solutions using modern deep learning techniques.
+
+**Technologies:**
+
+- YOLO
+- OpenCV
+- InsightFace
+- Deep Learning Models
+
+
+---
+
+## ⚡ AI Automation Systems
+
+Building intelligent automation workflows using:
+
+- AI Agents
+- LLM Integration
+- API Automation
+- Decision Systems
+
+
+---
+
+# 💼 Experience
+
+
+### Full Stack AI Engineer
+
+Working on:
+
+- AI-powered applications
+- Production software systems
+- Computer vision solutions
+- Automation platforms
+
+
+### Founder — Devnexes Digital Solutions
+
+Building digital solutions focused on:
+
+- Web Applications
+- AI Integration
+- Custom Software Development
+
+
+---
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arhamsolution-me&show_icons=true&theme=github_dark&hide_border=true" />
+
+
+<br><br>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamsolution-me&theme=github-dark&hide_border=true" />
+
+</div>
+
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arhamsolution-me/arhamsolution-me/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+
+---
+
+# 📚 Currently Learning
+
+- Advanced AI Agent Architectures
+- Production Machine Learning Systems
+- Cloud Deployment
+- Software Architecture
+- Distributed Systems
+
+
+---
+
+# 🤝 Let's Connect
+
+I am interested in:
+
+- AI Projects
+- Software Development
+- Open Source Collaboration
+- Innovative Technology Solutions
+
+
+<div align="center">
+
+**Building solutions, not just writing code.**
+
+</div>
